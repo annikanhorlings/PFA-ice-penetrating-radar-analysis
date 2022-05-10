@@ -1,7 +1,7 @@
-# PFA-ice-penetrating-radar-analysis
+# firn_aquifer_ice_penetrating_radar_analysis
 
 These are MATLAB scripts for the ice-penetrating radar and regional climate analyses used in Horlings et al. "Expansion of 
-Perennial Firn Aquifers in Southeast Greenland."
+firn aquifers in southeast Greenland."
 
 DEPENDENCIES
 This code utilizes MATLAB R2017a. We anticipate that the scripts can be run with any MATLAB version proceeding this.
